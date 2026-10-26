@@ -1,7 +1,5 @@
 <div align="center">
 
-# Volodymyr Chervinskyi
-
 ### Senior Full-Stack Developer
 
 **TypeScript · Node.js · Nest.js · React · Next.js · AWS**  
@@ -41,28 +39,6 @@ I contribute across the product lifecycle—from requirements and API design to 
 
 JWT · OAuth · Firebase · Supabase · WebRTC · Twilio · SendGrid · MapBox · Jest · Postman · Swagger/OpenAPI · CI/CD
 
-## 💼 Experience
-
-### Restream · Senior Full-Stack Developer
-**Jul 2024 – Oct 2026 · Remote**
-
-Built streaming-platform features with TypeScript, Node.js, Nest.js, React, and Next.js. Optimized REST/GraphQL APIs, PostgreSQL, and Redis; delivered real-time Socket.io features and improved AWS deployment workflows.
-
-### Fundraise Up · Full-Stack Developer
-**Sep 2023 – Jun 2024 · Remote**
-
-Built donation-platform features and REST APIs with TypeScript, Node.js, Nest.js/Express, React, and MongoDB. Integrated SendGrid and secure JWT/OAuth flows; optimized frontend performance.
-
-### Cosuno · Full-Stack Developer
-**Nov 2022 – Aug 2023 · Remote**
-
-Developed construction-tech SaaS features with TypeScript, React, Node.js, and Express. Integrated external services, optimized bundles, and added unit/integration tests.
-
-### bunch · Junior Full-Stack Developer
-**Nov 2021 – Oct 2022 · Remote**
-
-Contributed to fintech tools and REST APIs using React, TypeScript, Node.js, PostgreSQL, and Redis. Implemented authentication and supported Docker-based development environments.
-
 ## 🧭 How I Work
 
 - Own features from requirements through release.
@@ -72,7 +48,7 @@ Contributed to fintech tools and REST APIs using React, TypeScript, Node.js, Pos
 
 ## 🎓 Education & Languages
 
-**B.Sc. in Computer Science** · Kyiv Institute of Technology · 2017–2021  
+**B.Sc. in Computer Science** · Kyiv Institute of Technology  
 🇺🇦 Ukrainian — Native · 🇬🇧 English — Upper-Intermediate (B2)
 
 ## 📫 Let’s Connect
